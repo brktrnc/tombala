@@ -1,0 +1,6 @@
+C:\Users\Berk\Desktop\tombala\tombala\bin\tombala.dll.config
+C:\Users\Berk\Desktop\tombala\tombala\bin\tombala.dll
+C:\Users\Berk\Desktop\tombala\tombala\bin\tombala.pdb
+C:\Users\Berk\Desktop\tombala\tombala\obj\Debug\tombala.csprojResolveAssemblyReference.cache
+C:\Users\Berk\Desktop\tombala\tombala\obj\Debug\tombala.dll
+C:\Users\Berk\Desktop\tombala\tombala\obj\Debug\tombala.pdb

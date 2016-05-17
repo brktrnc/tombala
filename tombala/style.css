@@ -1,0 +1,13 @@
+﻿.container{
+    padding-top:150px;
+}
+div.tombala div:nth-child(odd) {
+  background-color:#c0392b;
+}
+
+.my-div{
+    min-height:75px;
+    border:1px solid #bfbfbf;
+    padding:20px;
+    font-size:18px;
+}
